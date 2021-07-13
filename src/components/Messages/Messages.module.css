@@ -1,0 +1,29 @@
+.dialog_area {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    margin: 10px;
+}
+
+.dialogs {
+
+}
+
+.item {
+color: white;
+}
+
+.messages {
+
+}
+
+.message {
+
+}
+
+.activeLink {
+    color: gold;
+}
+
+a{
+    text-decoration: none;
+}

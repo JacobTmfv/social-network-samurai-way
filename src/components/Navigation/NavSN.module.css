@@ -1,0 +1,28 @@
+.navClass {
+    grid-area: nav;
+    background-color: darkslateblue;
+    padding: 15px;
+}
+
+.item {
+    color: white;
+    text-decoration: none;
+}
+
+.navClass :hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.activeLink {
+    color: gold;
+}
+
+.friendsBar {
+    display: block;
+    font-size: 200%;
+    font-family: "Times New Roman";
+    margin-top: 50px;
+    text-align: center;
+}
+
